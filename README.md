@@ -3,15 +3,15 @@
 ![Java](https://img.shields.io/badge/Java-17%2B-blue)
 ![NetBeans](https://img.shields.io/badge/IDE-NetBeans%2018-orange)
 
-##Jose Miguel Guerrero Cabrera
+Jose Miguel Guerrero Cabrera   
 **GestionInventario** - Aplicacion CRUD para gestion de productos con autenticación y reportes
 
-##Descripcin
+Descripcion
 Desarrollado en Java para:
 - Gestion completa de productos (CRUD)
 - Control de stock
 - Autenticacion de usuarios
-- Generaci0n de reportes (valor total y productos agotados)
+- Generacion de reportes (valor total y productos agotados)
 - Testeo
 
 **Caracteristicas destacadas**:
